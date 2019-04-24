@@ -1,6 +1,6 @@
 # Reward Points Extension
 
-![alt text](https://mirasvit.com/media/catalog/product/cache/be09640022846918f6d670bc977a313a/i/c/icon_2.png)"Reward Points"
+![alt text](http://www.cardexpert.in/wp-content/uploads/2015/07/credit_card_reward_points-cashback.png)
 
 Magento 2 Reward Points module allows the admin to reward their customers with points. The admin can allocate reward points to the customers based on their purchases (product wise/category wise/cart amount wise) or activities (registration/product reviews) they perform in the web store. The customers can redeem their points at the checkout.
 
