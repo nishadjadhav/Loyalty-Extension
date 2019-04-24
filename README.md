@@ -1,9 +1,13 @@
 # Reward Points Extension
 
-![](https://mirasvit.com/media/catalog/product/cache/be09640022846918f6d670bc977a313a/i/c/icon_2.png)Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
   - Type some Markdown on the left
   - See HTML in the right
   - Magic
+  
+  
+![alt text](https://mirasvit.com/media/catalog/product/cache/be09640022846918f6d670bc977a313a/i/c/icon_2.png)
+
 
 # New Features!
 
