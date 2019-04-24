@@ -6,7 +6,7 @@ Magento 2 Reward Points module allows the admin to reward their customers with p
 
  
 
-# New Features!
+# Features!
 
   - Import a HTML file and watch it magically convert to Markdown
   - Drag and drop images (requires your Dropbox account be linked)
