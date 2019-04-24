@@ -15,7 +15,9 @@ Magento2 Reward Points helps to build an ultimate loyalty program which can grow
 
 Using this module, reward your customers with points to create an attachment or hold your potential customers.Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
 
-> The overriding design goal for Markdown's
+> Magento2 Reward Points helps to build an ultimate loyalty program which can grow your number of potential customers. The module not only rewards customers for their purchasing activities but also gives points for their behaviors like registration and reviewing products.
+
+Using this module, reward your customers with points to create an attachment or hold your potential customers.The overriding design goal for Markdown's
 > formatting syntax is to make it as readable
 > as possible. The idea is that a
 > Markdown-formatted document should be
