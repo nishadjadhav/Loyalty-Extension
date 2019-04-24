@@ -1,8 +1,6 @@
 # Reward Points Extension
 
-[![N|Solid](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiWtYSIrOjhAhWKQY8KHQShDCsQjRx6BAgBEAU&url=https%3A%2F%2Flandofcoder.com%2Fmagento-2-reward-points.html&psig=AOvVaw3apLUJuyR5OJbSCkasRq6r&ust=1556182021344887)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![N|Solid](https://mirasvit.com/media/catalog/product/cache/be09640022846918f6d670bc977a313a/i/c/icon_2.png)]
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 
