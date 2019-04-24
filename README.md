@@ -1,13 +1,10 @@
 # Reward Points Extension
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
-
-  
 ![alt text](https://mirasvit.com/media/catalog/product/cache/be09640022846918f6d670bc977a313a/i/c/icon_2.png)"Reward Points"
 
+Magento 2 Reward Points module allows the admin to reward their customers with points. The admin can allocate reward points to the customers based on their purchases (product wise/category wise/cart amount wise) or activities (registration/product reviews) they perform in the web store. The customers can redeem their points at the checkout.
+
+ 
 
 # New Features!
 
