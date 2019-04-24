@@ -4,7 +4,8 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
   - Type some Markdown on the left
   - See HTML in the right
   - Magic
-  
+  [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
   
 ![alt text](https://mirasvit.com/media/catalog/product/cache/be09640022846918f6d670bc977a313a/i/c/icon_2.png)
 
