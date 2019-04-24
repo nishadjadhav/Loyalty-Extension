@@ -22,12 +22,12 @@ $ php bin/magento setup:upgrade
 # Features!
 
   - The module can be enabled or disabled by the admin.
-  - different set of rules managed by admin 
-  - Average order amount within defined days
-  - Frequency of ordering (Order count within defined days)
-  - Minimum total sum or amount of items
-     - Customer places order
-     - Customer signs up
+  - Following different set of rules managed by admin
+    - Average order amount within defined days
+    - Frequency of ordering (Order count within defined days)
+    - Minimum total sum or amount of items
+    - Customer places order
+    - Customer signs up
 Customer purchases particular product
 Customer refers a friend
 Customer adds tag to a product
