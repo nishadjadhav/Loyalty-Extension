@@ -28,16 +28,16 @@ $ php bin/magento setup:upgrade
     - Minimum total sum or amount of items
     - Customer places order
     - Customer signs up
-Customer purchases particular product
-Customer refers a friend
-Customer adds tag to a product
-Customer writes a product review
-Customer has a birthday
-Customer is inactive for long time
-Newsletter subscription
-Sharing on Facebook
-Likes in Facebook
-Tweeting in Twitter
+    - Customer purchases particular product
+    - Customer refers a friend
+    - Customer adds tag to a product
+    - Customer writes a product review
+    - Customer has a birthday
+    - Customer is inactive for long time
+    - Newsletter subscription
+    - Sharing on Facebook
+    - Likes in Facebook
+    - Tweeting in Twitter
  
 
 
