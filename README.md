@@ -17,13 +17,12 @@ Magento 2 Reward Points module allows the admin to reward their customers with p
 
 
 ### Installation
+Add the module on app/code directory
 
-Install the dependencies and devDependencies and start the server.
-
+Install Setup, Enable the Reward Point module
 ```sh
-$ cd dillinger
-$ npm install -d
-$ node app
+$ php bin/magento setup:upgrade
+
 ```
 
 
