@@ -25,7 +25,7 @@ $ php bin/magento setup:static-content:deploy
 ```
 #### Step 2: Configuration
 
-<img src="https://github.com/nishadjadhav/Reward_img/blob/master/configurations.png" height="300" width="600">
+<img src="https://github.com/nishadjadhav/Reward_img/blob/master/configurations.png">
 
 # Features!
 
