@@ -13,13 +13,18 @@ Magento 2 Reward Points module allows the admin to reward their customers with p
 ### Installation
 #### Step 1: Upload the extension
 
-Add Reward Points Module in Magento 2 Root directory
+1) Unzip extension package and upload them into Magento root directory
+2) Enter the following at the command line
 
 ```sh
+$ php bin/magento cache:flush
+$ php bin/magento cache:clean
 $ php bin/magento setup:upgrade
-$ php bin/magento 
+$ php bin/magento setup:di:compile
+$ php bin/magento setup:static-content:deploy
 
 ```
+#### Step 2: Configuration
 
 # Features!
 
