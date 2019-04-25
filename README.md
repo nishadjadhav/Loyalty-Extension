@@ -11,7 +11,7 @@ Magento 2 Reward Points module allows the admin to reward their customers with p
 
 
 ### Installation
-## Upload the extension
+#### Upload the extension
 
 Install Setup, Enable the Reward Point module
 ```sh
