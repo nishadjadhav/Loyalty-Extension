@@ -7,7 +7,7 @@ Magento 2 Reward Points module allows the admin to reward their customers with p
 
 > Magento2 Reward Points helps to build an ultimate loyalty program which can grow your number of potential customers. The module not only rewards customers for their purchasing activities but also gives points for their behaviors like registration and reviewing products.
 
->Using this module, reward your customers with points to create an attachment or hold your potential customers.
+> Using this module, reward your customers with points to create an attachment or hold your potential customers.
 
 
 ### Installation
