@@ -31,6 +31,8 @@ $ php bin/magento setup:static-content:deploy
 
 # Features!
 
+- #### Module Configuration
+
   - Admin manage module enable/disable facility and define Expiration period of points (days), Discount value (%) , Set the maximum points to the customer, Facebook App Id.
    <img src="https://github.com/nishadjadhav/Reward_img/blob/master/configurations.png" height="300" width="600">
   
