@@ -72,7 +72,7 @@ $ php bin/magento setup:static-content:deploy
  - #### Show Loyalty program information on customer account
   Customers shall gain full access to loyalty program via their account in store. They can see their current balance, transaction history.customers will easily understand how your loyalty program works.
 
-    <img src="https://github.com/nishadjadhav/Reward_img/blob/master/customer_pt.png" height="350" width="700">
-    </br>
-    <img src="https://github.com/nishadjadhav/Reward_img/blob/master/history.png" height="350" width="700">
-    </br>
+   <img src="https://github.com/nishadjadhav/Reward_img/blob/master/customer_pt.png" height="350" width="700">
+   </br>
+   <img src="https://github.com/nishadjadhav/Reward_img/blob/master/history.png" height="350" width="700">
+   </br>
