@@ -40,7 +40,7 @@ $ php bin/magento setup:static-content:deploy
   * Set the expiration peroid of points (day)
   * Store the Facebook App Id (Usefull for Facebook Share)
   
-   <img src="https://github.com/nishadjadhav/Reward_img/blob/master/configurations.png" height="300" width="700">
+   <img src="https://github.com/nishadjadhav/Reward_img/blob/master/configurations.png" height="300" width="650">
  
  - #### Manage Earning Rules in admin panel
    Manage the terms and conditions of your loyalty program. You establish the rules to calculate an amount of earned or used points in store.
@@ -61,7 +61,7 @@ $ php bin/magento setup:static-content:deploy
     * Likes in Facebook
     * Tweeting in Twitter
 
-   <img src="https://github.com/nishadjadhav/Reward_img/blob/master/admin_rule.png" height="300" width="700">
+   <img src="https://github.com/nishadjadhav/Reward_img/blob/master/admin_rule.png" height="300" width="650">
 
   - #### Manage Customer Transactions in admin panel
      There is transaction history of every customer. admin see the number of points in customer account and a current tier in the Rewards tab. admin can be able to manually add or deduct the points from customer’s balance
