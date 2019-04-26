@@ -75,5 +75,5 @@ $ php bin/magento setup:static-content:deploy
 <img src="https://github.com/nishadjadhav/Reward_img/blob/master/customer_pt.png" height="350" width="700">
 
 <img src="https://github.com/nishadjadhav/Reward_img/blob/master/history.png" height="350" width="700">
-![alt text](https://github.com/nishadjadhav/Reward_img/blob/master/history.png)
+![](https://github.com/nishadjadhav/Reward_img/blob/master/history.png)
      
