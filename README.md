@@ -75,5 +75,6 @@ $ php bin/magento setup:static-content:deploy
 <img src="https://github.com/nishadjadhav/Reward_img/blob/master/customer_pt.png" height="350" width="700">
 
 <img src="https://github.com/nishadjadhav/Reward_img/blob/master/history.png" height="350" width="700">
-![](https://github.com/nishadjadhav/Reward_img/blob/master/history.png)
+![](http://github.com/nishadjadhav/Reward_img/blob/master/history.png)
+![alt text](http://www.cardexpert.in/wp-content/uploads/2015/07/credit_card_reward_points-cashback.png)
      
