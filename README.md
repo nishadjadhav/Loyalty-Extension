@@ -25,11 +25,14 @@ $ php bin/magento setup:static-content:deploy
 ```
 #### Step 2: Configuration
 
-<img src="https://github.com/nishadjadhav/Reward_img/blob/master/configurations.png" height="300" width="600">
+ - Admin can enable or disable module on following path
+ Stores >> Configurations >> Reward Points Extensions
 
 # Features!
 
-  - The module can be enabled or disabled by the admin.
+  - The module can be enabled or disabled by the admin and define Expiration periods of points (days), Discounts value in %	, s of points of customer
+   <img src="https://github.com/nishadjadhav/Reward_img/blob/master/configurations.png" height="300" width="600">
+  
   - Following different set of rules managed by admin
     - Average order amount within defined days
     - Frequency of ordering (Order count within defined days)
