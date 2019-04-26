@@ -65,8 +65,10 @@ $ php bin/magento setup:static-content:deploy
 
   - #### Manage Customer Transactions in admin panel
      There is transaction history of every customer. admin see the number of points in customer account in the Rewards tab. admin can be able to manually add or deduct the points from customer’s balance
-     
- - #### Manage Customer Refferals in admin panel
+    </br>
+    <img src="https://github.com/nishadjadhav/Reward_img/blob/master/admin_cust_history.png" height="350" width="700">
+
+- #### Manage Customer Refferals in admin panel
      The admin see the details of referrral of a customers
      
  - #### Show Loyalty program information on customer account
