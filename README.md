@@ -9,8 +9,8 @@ Magento 2 Reward Points module allows the admin to reward their customers with p
 > Using this module, reward your customers with points to create an attachment or hold your potential customers.
 
 
-### Installation
-#### Step 1: Upload the extension
+## Installation
+### Step 1: Upload the extension
 
 1) Unzip extension package and upload them into Magento root directory
 2) Enter the following at the command line
@@ -23,22 +23,22 @@ $ php bin/magento setup:di:compile
 $ php bin/magento setup:static-content:deploy
 
 ```
-#### Step 2: Configuration
+### Step 2: Configuration
 
  - Admin can enable or disable module on following path
  
  - Stores >> Configurations >> Reward Points Extensions
 
-# Features!
+## Features!
 
-- #### Module Configuration
+- ### Module Configuration
 
   The Admin can configure the magento 2 Reward Points module 
-  - Enable/disable the module.
-  - Set the value of one reward points(Discount value %).
-  - Set the maximum limit of the reward points that the customer can get.
-  - Set the expiration peroid of points (day)
-  - Store the Facebook App Id (Usefull for Facebook Share)
+  * Enable/disable the module.
+  * Set the value of one reward points(Discount value %).
+  * Set the maximum limit of the reward points that the customer can get.
+  * Set the expiration peroid of points (day)
+  * Store the Facebook App Id (Usefull for Facebook Share)
   
    <img src="https://github.com/nishadjadhav/Reward_img/blob/master/configurations.png" height="300" width="600">
   
