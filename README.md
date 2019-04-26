@@ -86,9 +86,9 @@ $ php bin/magento setup:static-content:deploy
        </br>
        
    ##### 2) For Product Review
-      Customers to earn reward points for submitting the product review. These product reviews increase the product sales for the sellers. 
-    <img src="https://github.com/nishadjadhav/Reward_img/blob/master/product.png" height="350" width="700">
-     </br>
+      Customers to earn reward points for submitting the product review. These product reviews increase the product sales for the sellers
+      </br>
+      <img src="https://github.com/nishadjadhav/Reward_img/blob/master/product.png" height="350" width="700">
       
    ##### 3) Based On Specific Product
       The customers can earn the reward points on the basis of the specific product they carry in their cart while checkout.
