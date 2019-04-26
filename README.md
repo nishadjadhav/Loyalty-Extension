@@ -33,7 +33,13 @@ $ php bin/magento setup:static-content:deploy
 
 - #### Module Configuration
 
-  - Admin manage module enable/disable facility and define Expiration period of points (days), Discount value (%) , Set the maximum points to the customer, Facebook App Id.
+  The Admin can configure the magento 2 Reward Points module 
+  - Enable/disable the module.
+  - Set the value of one reward points(Discount value %).
+  - Set the maximum limit of the reward points that the customer can get.
+  - Set the expiration peroid of points (day)
+  - Store the Facebook App Id (Usefull for Facebook Share)
+  
    <img src="https://github.com/nishadjadhav/Reward_img/blob/master/configurations.png" height="300" width="600">
   
   - Following different set of rules managed by admin
