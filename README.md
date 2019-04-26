@@ -93,6 +93,4 @@ $ php bin/magento setup:static-content:deploy
    ##### 3) Based On Specific Product
       The customers can earn the reward points on the basis of the specific product they carry in their cart while checkout.
 
-   
-
  
