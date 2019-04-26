@@ -78,3 +78,11 @@ $ php bin/magento setup:static-content:deploy
     </br>
     <img src="https://github.com/nishadjadhav/Reward_img/blob/master/history.png" height="350" width="700">
     </br>
+    
+ - #### Customers get notifications based on conditions rules and also earn the points
+   - ##### 1) Customer registrations
+          Customers to earn reward points for registration activity. This feature will attract new customers for the admin.
+          <img src="https://github.com/nishadjadhav/Reward_img/blob/master/registration.png" height="350" width="700">
+          </br>
+   
+ 
