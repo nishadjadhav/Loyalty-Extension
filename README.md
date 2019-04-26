@@ -42,7 +42,7 @@ $ php bin/magento setup:static-content:deploy
   
    <img src="https://github.com/nishadjadhav/Reward_img/blob/master/configurations.png" height="300" width="650">
  
- - #### Manage Earning Rules in admin panel
+ - #### Manage Earning Rules/Notification Rules in admin panel
    Manage the terms and conditions of your loyalty program. You establish the rules to calculate an amount of earned or used points in store.
    Different set of rules managed by admin
     * Average order amount within defined days
