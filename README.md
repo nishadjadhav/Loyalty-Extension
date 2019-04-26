@@ -39,7 +39,7 @@ $ php bin/magento setup:static-content:deploy
   * Set the maximum limit of the reward points that the customer can get.
   * Set the expiration peroid of points (day)
   * Store the Facebook App Id (Usefull for Facebook Share)
-  
+  </br>
    <img src="https://github.com/nishadjadhav/Reward_img/blob/master/configurations.png" height="350" width="700">
  
  - #### Manage Earning Rules/Notification Rules in admin panel
@@ -60,7 +60,7 @@ $ php bin/magento setup:static-content:deploy
     * Sharing on Facebook
     * Likes in Facebook
     * Tweeting in Twitter
-
+    </br>
    <img src="https://github.com/nishadjadhav/Reward_img/blob/master/admin_rule.png" height="350" width="700">
 
   - #### Manage Customer Transactions in admin panel
@@ -75,3 +75,4 @@ $ php bin/magento setup:static-content:deploy
 <img src="https://github.com/nishadjadhav/Reward_img/blob/master/customer_pt.png" height="350" width="700">
 </br>
 <img src="https://github.com/nishadjadhav/Reward_img/blob/master/history.png" height="350" width="700">
+</br>
