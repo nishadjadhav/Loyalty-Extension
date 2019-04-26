@@ -73,8 +73,5 @@ $ php bin/magento setup:static-content:deploy
    Customers shall gain full access to loyalty program via their account in store. They can see their current balance, transaction history.customers will easily understand how your loyalty program works.
 
 <img src="https://github.com/nishadjadhav/Reward_img/blob/master/customer_pt.png" height="350" width="700">
-
+</br>
 <img src="https://github.com/nishadjadhav/Reward_img/blob/master/history.png" height="350" width="700">
-![](http://github.com/nishadjadhav/Reward_img/blob/master/history.png)
-![alt text](http://www.cardexpert.in/wp-content/uploads/2015/07/credit_card_reward_points-cashback.png)
-     
