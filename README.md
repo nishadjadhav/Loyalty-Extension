@@ -80,9 +80,17 @@ $ php bin/magento setup:static-content:deploy
     </br>
     
  - #### Customers get notifications based on conditions rules and also earn the points
-   ##### 1) Customer registrations
+   ##### 1) For Customer registration
       Customers to earn reward points for registration activity. This feature will attract new customers for the admin.
       <img src="https://github.com/nishadjadhav/Reward_img/blob/master/registration.png" height="350" width="700">
        </br>
+       
+   ##### 2) For Product Review
+      Customers to earn reward points for submitting the product review. These product reviews increase the product sales for the sellers. 
+      
+   ##### 3) Based On Special Product
+      The customers can earn the reward points on the basis of the specific product they carry in their cart while checkout.
+
    
+
  
