@@ -69,9 +69,10 @@ $ php bin/magento setup:static-content:deploy
  - #### Manage Customer Refferals in admin panel
      The admin see the details of referrral of a customers
      
+ - #### Show Loyalty program information on customer account
+ 
+   <img src="https://github.com/nishadjadhav/Reward_img/blob/master/customer_pt.png" height="300" width="650">
+ 
 
-
-   
-
-
-
+     
+     
