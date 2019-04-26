@@ -10,7 +10,7 @@ Magento 2 Reward Points module allows the admin to reward their customers with p
 
 
 ## Installation
-### Step 1: Upload the extension
+#### Step 1: Upload the extension
 
 1) Unzip extension package and upload them into Magento root directory
 2) Enter the following at the command line
@@ -23,7 +23,7 @@ $ php bin/magento setup:di:compile
 $ php bin/magento setup:static-content:deploy
 
 ```
-### Step 2: Configuration
+#### Step 2: Configuration
 
  - Admin can enable or disable module on following path
  
@@ -31,7 +31,7 @@ $ php bin/magento setup:static-content:deploy
 
 ## Features!
 
-- ### Module Configuration
+- #### Module Configuration
 
   The Admin can configure the magento 2 Reward Points module 
   * Enable/disable the module.
@@ -41,24 +41,33 @@ $ php bin/magento setup:static-content:deploy
   * Store the Facebook App Id (Usefull for Facebook Share)
   
    <img src="https://github.com/nishadjadhav/Reward_img/blob/master/configurations.png" height="300" width="600">
-  
-  - Following different set of rules managed by admin
-    - Average order amount within defined days
-    - Frequency of ordering (Order count within defined days)
-    - Minimum total sum or amount of items
-    - Customer places order
-    - Customer signs up
-    - Customer purchases particular product
-    - Customer refers a friend
-    - Customer adds tag to a product
-    - Customer writes a product review
-    - Customer has a birthday
-    - Customer is inactive for long time
-    - Newsletter subscription
-    - Sharing on Facebook
-    - Likes in Facebook
-    - Tweeting in Twitter
  
+ - #### Manage Earning Rules in admin panel
+   Manage the terms and conditions of your loyalty program. You establish the rules to calculate an amount of earned or used points in store.
+   Different set of rules managed by admin
+    * Average order amount within defined days
+    * Frequency of ordering (Order count within defined days)
+    * Minimum total sum or amount of items
+    * Customer places order
+    * Customer signs up
+    * Customer purchases particular product
+    * Customer refers a friend
+    * Customer adds tag to a product
+    * Customer writes a product review
+    * Customer has a birthday
+    * Customer is inactive for long time
+    * Newsletter subscription
+    * Sharing on Facebook
+    * Likes in Facebook
+    * Tweeting in Twitter
+
+  - #### Manage Customer Transactions
+     There is transaction history of every customer. admin see the number of points in customer account and a current tier in the Rewards tab. admin can be able to manually add or deduct the points from customer’s balance
+
+
+
+
+   
 
 
 
