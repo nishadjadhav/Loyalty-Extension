@@ -61,7 +61,7 @@ $ php bin/magento setup:static-content:deploy
     * Likes in Facebook
     * Tweeting in Twitter
 
-   <img src="https://github.com/nishadjadhav/Reward_img/blob/master/admin_rule.png" height="300" width="600">
+   <img src="https://github.com/nishadjadhav/Reward_img/blob/master/admin_rule.png" height="350" width="750">
 
   - #### Manage Customer Transactions in admin panel
      There is transaction history of every customer. admin see the number of points in customer account and a current tier in the Rewards tab. admin can be able to manually add or deduct the points from customer’s balance
