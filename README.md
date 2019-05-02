@@ -93,4 +93,10 @@ $ php bin/magento setup:static-content:deploy
    ##### 3) Based On Specific Product
       The customers can earn the reward points on the basis of the specific product they carry in their cart while checkout.
 
- 
+   ##### 3) Based On Customers for Social Media Activities
+      Customers can earn points by sharing your product and category pages in the social media. You have a complete control over this process. Currently, extension allows rewarding the points for the following activities:
+      - Sharing on Facebook
+      - Tweets on Twitter
+      - Likes in Google+
+
+
