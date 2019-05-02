@@ -103,3 +103,6 @@ $ php bin/magento setup:static-content:deploy
       
    ##### 3) For Inviting Friends
       Customers can invite their friend and family members through their account in your store. They can also send them an invitation link. Extension will link new visitors to the customer who referred them and earned reward points.
+      </br>
+      <img src="https://github.com/nishadjadhav/Reward_img/blob/master/customer_refer.png" height="350" width="700">
+      
