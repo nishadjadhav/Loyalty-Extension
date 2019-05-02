@@ -109,7 +109,6 @@ $ php bin/magento setup:static-content:deploy
    ##### 6) For Inviting Friends based on order subselection
       Generate discounts based on customer order amounts to reward shoppers for making purchases in your store. Retain existing clients and attract new ones by creating tempting offers for those who purchase more.
       Order subselection includes:
-
-      Average order value
-      Total sales amount
-      Number of placed orders
+      ###### i) Average order value
+      ###### ii) Total sales amount
+      ###### iii) Number of placed orders
