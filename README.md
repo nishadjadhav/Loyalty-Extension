@@ -112,3 +112,6 @@ $ php bin/magento setup:static-content:deploy
       ###### i) Average order value
       ###### ii) Total sales amount
       ###### iii) Number of placed orders
+    
+   ##### 7) Motivate the Customers to Come Back
+    Extension can inactive customers with the points inviting them to visit your store and check available options to spend earned points. Extension can automatically send custom emails containing the information regarding balance change.
