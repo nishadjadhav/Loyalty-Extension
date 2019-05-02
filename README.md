@@ -106,7 +106,7 @@ $ php bin/magento setup:static-content:deploy
       </br>
       <img src="https://github.com/nishadjadhav/Reward_img/blob/master/customer_refer.png" height="350" width="700">
       
-   ##### 6) For Inviting Friends based on order subselection
+   ##### 6) For based on order subselection
       Generate discounts based on customer order amounts to reward shoppers for making purchases in your store. Retain existing clients and attract new ones by creating tempting offers for those who purchase more.
       Order subselection includes:
       ###### i) Average order value
