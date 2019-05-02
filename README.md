@@ -85,8 +85,8 @@ $ php bin/magento setup:static-content:deploy
       <img src="https://github.com/nishadjadhav/Reward_img/blob/master/registration.png" height="350" width="700">
        </br>
        
-   ##### 2) For Product Review
-      Customers to earn reward points for submitting the product review. These product reviews increase the product sales for the sellers
+   ##### 2) Reward for Behaviors
+Besides rewards for purchasing, other customer behaviors on stores can be tracked and rewarded such as subscribing, product reviewing, rating, sharing and others. e.g.Customers to earn reward points for submitting the product review. These product reviews increase the product sales for the sellers
       </br>
       <img src="https://github.com/nishadjadhav/Reward_img/blob/master/product.png" height="350" width="700">
       
