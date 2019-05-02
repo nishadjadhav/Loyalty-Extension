@@ -78,6 +78,12 @@ $ php bin/magento setup:static-content:deploy
     </br>
     <img src="https://github.com/nishadjadhav/Reward_img/blob/master/history.png" height="350" width="700">
     </br>
+   
+- #### Customers Can Spend Earned Points
+     You can manage the ways your customers spend earned points. You can allow them to spend their points to certain groups of products. You can set the minimum and maximum number of used points. When customer uses earned points, he or she can receive a discount to the order.
+    </br>
+    <img src="https://github.com/nishadjadhav/Reward_img/blob/master/apply_price.png" height="350" width="700">
+    </br>
     
  - #### Customers get notifications based on conditions rules and also earn the points
    ##### 1) For Customer registration
