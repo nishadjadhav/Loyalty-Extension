@@ -101,8 +101,15 @@ $ php bin/magento setup:static-content:deploy
       </br>
       <img src="https://github.com/nishadjadhav/Reward_img/blob/master/share.png" height="350" width="700">
       
-   ##### 3) For Inviting Friends
+   ##### 5) For Inviting Friends
       Customers can invite their friend and family members through their account in your store. They can also send them an invitation link. Extension will link new visitors to the customer who referred them and earned reward points.
       </br>
       <img src="https://github.com/nishadjadhav/Reward_img/blob/master/customer_refer.png" height="350" width="700">
       
+   ##### 6) For Inviting Friends based on order subselection
+      Generate discounts based on customer order amounts to reward shoppers for making purchases in your store. Retain existing clients and attract new ones by creating tempting offers for those who purchase more.
+      Order subselection includes:
+
+      Average order value
+      Total sales amount
+      Number of placed orders
