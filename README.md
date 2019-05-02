@@ -98,5 +98,6 @@ $ php bin/magento setup:static-content:deploy
       - Sharing on Facebook
       - Tweets on Twitter
       - Likes in Google+
-
+      </br>
+      <img src="https://github.com/nishadjadhav/Reward_img/blob/master/share.png" height="350" width="700">
 
